@@ -1,0 +1,1 @@
+# yandex_js_redirect_test
